@@ -19,11 +19,11 @@
             <p><label for="txtNombreProducto">Nombre Producto: </label>
             <input type="text" name="txtNombreProducto" id="txtNombreProducto"></p>
             
-            <p><label for="txtIdPrecio">Precio: </label>
-            <input type="number" name="txtIdPrecio" id="txtIdPrecio"></p>
+            <p><label for="txtPrecio">Precio: </label>
+            <input type="number" name="txtPrecio" id="txtPrecio"></p>
             
-            <p><label for="txtNombreExistencias">Existencias: </label>
-            <input type="text" name="txtNombreExistencias" id="txtNombreExistencias"></p>
+            <p><label for="txtExistencias">Existencias: </label>
+            <input type="text" name="txtExistencias" id="txtExistencias"></p>
             
             <p><input type="submit" value="Guardar" class="btn btn-success"></p>
         
