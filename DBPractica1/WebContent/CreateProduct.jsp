@@ -11,7 +11,7 @@
     <div class="container">
         <h2 class="text-center display-4">CREAR PRODUCTO</h2>
         <hr/>
-        <form action="CreateProductServlet" method="POST">
+        <form action="PruebaServlet" method="post">
         
             <p><label for="txtIdProducto">ID Producto: </label>
             <input type="number" name="txtIdProducto" id="txtIdProducto"></p>
